@@ -29,4 +29,3 @@ Let's shape the future of decentralized finance together!
 
 ---
 
-Please note that the above README.md is an example, and you should customize it according to your specific project details, features, and goals.
