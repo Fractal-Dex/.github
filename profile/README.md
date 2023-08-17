@@ -1,6 +1,6 @@
 # Fractal DEX
 
-Fractal DEX aims to become the leading decentralized exchange (DEX) on the new Lore Chain. Our mission is to provide the ecosystem with seamless trading experiences, deep liquidity, and strategic partnerships that foster the growth of DeFi in a user-friendly manner. 
+Fractal DEX aims to become the leading decentralized exchange (DEX) on the new zkSync Era Chain. Our mission is to provide the ecosystem with seamless trading experiences, deep liquidity, and strategic partnerships that foster the growth of DeFi in a user-friendly manner. 
 
 ## Key Features
 
